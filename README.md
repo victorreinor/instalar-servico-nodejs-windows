@@ -77,6 +77,15 @@ svc.on('uninstall', function() {
 svc.uninstall();
 ```
 
+Para rodar os scripts acima e necessario abrir o prompt com o administrador pois o SO necessita de privilegios de administrador.
+
+No prompt de comando abra seu projete e digite:
+
+Para instalar
+`node install`
+Para desinstalar
+`node uninstall`
+
 O objeto `Service` objeto emite os seguintes eventos:
 
 - **install** - Disparado quando o script é instalado como um serviço.
