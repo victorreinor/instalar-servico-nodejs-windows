@@ -82,9 +82,14 @@ Para rodar os scripts acima e necessario abrir o prompt com o administrador pois
 No prompt de comando abra seu projete e digite:
 
 Para instalar
+
 `node install`
+
 Para desinstalar
+
 `node uninstall`
+
+-----
 
 O objeto `Service` objeto emite os seguintes eventos:
 
