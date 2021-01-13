@@ -1,4 +1,4 @@
-# Instalar serviços nodejs no windows
+# Instalar um serviço com nodejs no windows
 
 A maneira recomendada de instalar é com o npm, usando:
 
